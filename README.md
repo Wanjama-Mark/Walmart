@@ -1,4 +1,4 @@
-📊 #About_the_Data
+#About_the_Data
 The dataset contains transactional records of Walmart sales, providing insights into revenue trends, product performance, and customer purchasing behavior.
 
 📂 Dataset Used: Walmart Sales Data
